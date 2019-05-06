@@ -1,7 +1,6 @@
 # OpenMP1
 OpenMP for training
 
-Jest to zestaw siedmiu niezaleznych krotkich zadan z wykorzystaniem OpenMP
-Sprobuj je wykonac, a nastepnie wyslij swoje wersje do tego repozytorium.
-Pamietaj o opcjach kompilatora -fopenmp
-a w niektórych przykładach  -std=c++14 (lub c++17)
+Jest to zestaw siedmiu niezależnych, krótkich zadan, z wykorzystaniem OpenMP
+Spróbuj je wykonać, a następnie wyślij swoje wersje do swojego repozytorium.
+Pamiętaj o opcjach kompilatora -fopenmp, a w niektórych przykładach  -std=c++14 (lub c++17)
