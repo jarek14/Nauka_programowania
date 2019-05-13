@@ -1,7 +1,7 @@
 #include <omp.h>
 #include <iostream>
 using namespace std;
-
+a
 int main () {
 
   int n_threads, thread_id;
